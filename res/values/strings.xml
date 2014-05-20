@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, JSONProjActivity!</string>
+    <string name="app_name">JSONProj</string>
+    <string name="hint">Enter a word to translate</string>
+    <string name="b1Text">Translate</string>
+    <string name="tvResult">Result</string>
+</resources>
